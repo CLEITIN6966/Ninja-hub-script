@@ -111,4 +111,4 @@ getgenv().Configs = {
     }
 }
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/CLEITIN6966/Ninja-hub-script/main/SCRIPT%20COPIA.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CLEITIN6966/Ninja-hub-script/main/SCRIPTCOPIA.lua"))()
